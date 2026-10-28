@@ -49,25 +49,25 @@
 
 <details open>
 <summary><b>👨‍💻 Languages</b></summary>
-
+<br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </details>
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
-  
+<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 </details>
 
 <details open>
 <summary><b>⚙️ Backend & Database</b></summary>
-  
+<br>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"> <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
 </details>
 
 <details open>
 <summary><b>🔧 Tools & Workflows</b></summary>
-
+<br>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white"> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
 </details>
 
@@ -98,11 +98,9 @@ Developed a redistribution platform utilizing Role-Based Access Control (RBAC) t
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abi04nash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a855f7&icon_color=8b5cf6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abi04nash&theme=tokyonight&hide_border=true&background=0f172a&ring=8b5cf6&fire=a855f7&currStreakNum=e2e8f0" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abi04nash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a855f7&icon_color=8b5cf6" alt="GitHub Stats" width="70%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abi04nash&theme=tokyonight&hide_border=true&background=0f172a&ring=8b5cf6&fire=a855f7&currStreakNum=e2e8f0" alt="GitHub Streak" width="70%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi04nash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a855f7&icon_color=8b5cf6" alt="Top Languages" width="70%" />
 </div>
-
-
-
-
-
