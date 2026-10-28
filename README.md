@@ -4,7 +4,7 @@
 
   **Aspiring Software Engineer | MERN Stack Developer | Competitive Programmer**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+IIIT+Bhubaneswar;MERN+Stack+Developer;LeetCode+Knight+(Peak+1891);Building+Scalable+Full-Stack+Apps)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+IIIT+Bhubaneswar;MERN+Stack+Developer;LeetCode+Knight+(Peak+1891);Building+Scalable+Full-Stack+WebSites)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://abi04nash.github.io/AviPortfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
