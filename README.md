@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi, I'm Abinash Mishra (Avi) 👋🏻
+  # Hi, I'm Abinash Mishra (Avi) ☕
 
   **Aspiring Software Engineer | MERN Stack Developer | Competitive Programmer**
 
